@@ -1,3 +1,1 @@
-# numerical_analysis
-# numerical_analysis
-# numerical_analysis
+# numerical_analysis and linear programming stuff
